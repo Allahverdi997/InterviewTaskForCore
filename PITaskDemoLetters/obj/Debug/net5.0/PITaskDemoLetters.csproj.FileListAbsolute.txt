@@ -1,0 +1,16 @@
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\PITaskDemoLetters.exe
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\PITaskDemoLetters.deps.json
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\PITaskDemoLetters.runtimeconfig.json
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\PITaskDemoLetters.runtimeconfig.dev.json
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\PITaskDemoLetters.dll
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\ref\PITaskDemoLetters.dll
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\bin\Debug\net5.0\PITaskDemoLetters.pdb
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.csproj.AssemblyReference.cache
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.AssemblyInfo.cs
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.dll
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\ref\PITaskDemoLetters.dll
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.pdb
+C:\Users\Allahverdi\source\repos\PITaskDemoLetters\PITaskDemoLetters\obj\Debug\net5.0\PITaskDemoLetters.genruntimeconfig.cache
