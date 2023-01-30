@@ -72,7 +72,7 @@ namespace PITaskDemoLetters
             {
                 Console.WriteLine($"{item.Key}-{item.Value}");
             }
-
+            Console.ReadKey();
         }
     }
 }
